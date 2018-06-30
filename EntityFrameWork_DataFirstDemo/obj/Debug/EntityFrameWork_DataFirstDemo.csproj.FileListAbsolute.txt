@@ -1,0 +1,11 @@
+c:\users\sara\source\repos\EntityFrameWork_DataFirstDemo\EntityFrameWork_DataFirstDemo\bin\Debug\EntityFrameWork_DataFirstDemo.exe.config
+c:\users\sara\source\repos\EntityFrameWork_DataFirstDemo\EntityFrameWork_DataFirstDemo\bin\Debug\EntityFrameWork_DataFirstDemo.exe
+c:\users\sara\source\repos\EntityFrameWork_DataFirstDemo\EntityFrameWork_DataFirstDemo\bin\Debug\EntityFrameWork_DataFirstDemo.pdb
+c:\users\sara\source\repos\EntityFrameWork_DataFirstDemo\EntityFrameWork_DataFirstDemo\bin\Debug\EntityFramework.dll
+c:\users\sara\source\repos\EntityFrameWork_DataFirstDemo\EntityFrameWork_DataFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sara\source\repos\EntityFrameWork_DataFirstDemo\EntityFrameWork_DataFirstDemo\bin\Debug\EntityFramework.xml
+c:\users\sara\source\repos\EntityFrameWork_DataFirstDemo\EntityFrameWork_DataFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sara\source\repos\EntityFrameWork_DataFirstDemo\EntityFrameWork_DataFirstDemo\obj\Debug\EntityFrameWork_DataFirstDemo.csprojResolveAssemblyReference.cache
+c:\users\sara\source\repos\EntityFrameWork_DataFirstDemo\EntityFrameWork_DataFirstDemo\obj\Debug\EntityFrameWork_DataFirstDemo.csproj.CoreCompileInputs.cache
+c:\users\sara\source\repos\EntityFrameWork_DataFirstDemo\EntityFrameWork_DataFirstDemo\obj\Debug\EntityFrameWork_DataFirstDemo.exe
+c:\users\sara\source\repos\EntityFrameWork_DataFirstDemo\EntityFrameWork_DataFirstDemo\obj\Debug\EntityFrameWork_DataFirstDemo.pdb
